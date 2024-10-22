@@ -9,11 +9,11 @@ editor_options:
 
 ## Introduction
 
-Note. 1st version
+Note. 2nd version
 
 ```{r}
-x = c(1, 2, 3)
-y = c(1, 2, 3)
+x = c(1, 2, 3, 4)
+y = c(1, 2, 3, 4)
 plot(x,y)
 ```
 
